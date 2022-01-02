@@ -36,5 +36,7 @@
 <br><br><br>
 
 ### Connect with me🦖
-  <a href="https://wa.me/8837630339"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> &nbsp; <a href="mailto:ppmk632@gmail.co "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;  <a href="https://pratham-ops.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://wa.me/8837630339"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> &nbsp; <a href="mailto:ppmk632@gmail.co "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;  <a href="https://github.com/pratham-ops"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=White"> <a href="https://www.linkedin.com/in/pratham-sharma-024132176/"><img src="https://img.shields.io/badge/LinkedIn-21759B?style=for-the-badge&logo=LinkedIn&logoColor=White">
+<a href="https://www.instagram.com/pratham_5200/"><img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=Instagram&logoColor=White">
+ 
   
