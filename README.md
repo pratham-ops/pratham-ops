@@ -18,7 +18,24 @@
 ## About Me
 <p>I am a B.Tech. CSE student at Guru Nanak Dev University, Amritsar. <em><b>A Full Stack Developer<⁄></em></b>. I am Interested in learning about how the IT industry is tackling real-world problems. <em><b>Finance and other risk-free investment choices 💬 are quite interesting to me.</em></b><em><b> Discovering the reason for the existence of the human race 🌱.</em></b></p>
  <hr>
+ 
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Pratham = {
+  pronouns: "He",
+  code: [Javascript, Typescript, HTML, CSS, React, C++],
+  tools: [React, Redux, Node, BooTStrap, GIT],
+  challenge: "I am focusing on my Data Analytics and Logical Skills"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> 
+<hr>
+
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pratham-ops&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0A0015&fire=00B1DD&ring=00C0DD&currStreakLabel=00C6DD">
+
+
      
 <br><hr>
 ## 📧📌Connect With Me🐧
