@@ -36,7 +36,7 @@ const Pratham = {
 <div>
   <span>
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pratham-ops&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0A0015&fire=00B1DD&ring=00C0DD&currStreakLabel=00C6DD">
-  </span> &nbsp &nbsp; 
+  </span> &nbsp;
 <span>
  <a href="https://github.com/pratham-ops/github-readme-stats">
       <img width=370 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-ops&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
