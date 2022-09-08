@@ -1,32 +1,23 @@
-<!-- ### Hi there 👋
 
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning MEAN Stack
-- 👯 I’m looking to collaborate on Web Developement
-- 🤔 I’m looking for help with DS & ALGO
-- 💬 Ask me about C++
-- 🌀 I’m looking to collaborate on <em><b>Full Stack Projects.</em></b>
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/pratham-sharma-024132176/
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I almost spend 12 hours a day listening to songs
+> # Flow Like Water!! &nbsp; [![GitHub followers](https://img.shields.io/github/followers/pratham-ops.svg?style=social&label=Followers)](https://github.com/pratham-ops?tab=followers)  <img align="right" src="https://profile-counter.glitch.me/pratham-ops/count.svg" />
+## Here's some fun facts about me: <img width="100" align="right" src="https://user-images.githubusercontent.com/83504276/146778999-93e901fd-80eb-4118-8a0d-39df011e32b4.png"><a href="https://git-scm.com/"><img height="100px" align="right" src="https://cdn.svgporn.com/logos/git-icon.svg"></a><a href="https://visualstudio.microsoft.com/"><img height="100px" align="right" src="https://cdn.svgporn.com/logos/visual-studio.svg"></a><a href="https://code.visualstudio.com/"><img height="100px" align="right" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratham-ops&hide=contribs&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
- -->
- # Flow Like Water!! &nbsp; [![GitHub followers](https://img.shields.io/github/followers/pratham-ops.svg?style=social&label=Followers)](https://github.com/pratham-ops?tab=followers)  <img align="right" src="https://profile-counter.glitch.me/pratham-ops/count.svg" />
-## Here's some fun facts about me: <img width="120" align="right" src="https://user-images.githubusercontent.com/83504276/146778999-93e901fd-80eb-4118-8a0d-39df011e32b4.png">
 
 <!--   -  **I am a ***Coder***⚡🧙🏻‍♂️**
   -  **I'm a enthusiastic web developer👩🏻‍💻**
   -  **I'm eager to Learn new Technologies 🌊** -->
-- 🌱 I’m currently learning MEAN Stack
-- 👯 I’m looking to collaborate on Web Developement
+- 🌱 I’m currently learning MERN Stack
+- 🌀 I’m looking to collaborate on <em><b>Full Stack Projects.</em></b>
+- 👀 I’m interested in exploring different Risk Free Investments Ideas</em></b>
 - 🤔 I’m looking for help with DS & ALGO
 - 💬 Ask me about C++
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I almost spend 12 hours a day listening to songs
+<hr>
 
-<hr><br>
-
+## About Me
+<p>I am a B.Tech. CSE student at Guru Nanak Dev University, Amritsar. <em><b>A Full Stack Developer<⁄></em></b>. I am Interested in learning about how the IT industry is tackling real-world problems. <em><b>Finance and other risk-free investment choices 💬 are quite interesting to me.</em></b><em><b> Discovering the reason for the existence of the human race 🌱.</em></b></p>
+ <hr>
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pratham-ops&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0A0015&fire=00B1DD&ring=00C0DD&currStreakLabel=00C6DD">
      
 <br><hr>
