@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on Web Developement
 - 🤔 I’m looking for help with DS & ALGO
 - 💬 Ask me about C++
+- 🌀 I’m looking to collaborate on <em><b>Full Stack Projects.</em></b>
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/pratham-sharma-024132176/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I almost spend 12 hours a day listening to songs
