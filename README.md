@@ -21,6 +21,14 @@
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pratham-ops&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0A0015&fire=00B1DD&ring=00C0DD&currStreakLabel=00C6DD">
      
 <br><hr>
+## 📧📌Connect With Me🐧
+ <a href="mailto:ppmk632@gmail.com"><img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></a>
+ <a href="https://www.linkedin.com/in/pratham-sharma-024132176/"><img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  /></a>
+ <a href="https://github.com/pratham-ops"><img width="45px" src="https://cdn.freebiesupply.com/logos/large/2x/github-octocat-logo-png-transparent.png"></a><!--   https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png -->
+ <a href="https://www.instagram.com/_.lone_escapist._/"><img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" /></a>
+ 
+ <hr>
+ 
 
 ### Skills I am Learning : 🛠
 
