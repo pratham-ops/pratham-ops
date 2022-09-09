@@ -1,6 +1,6 @@
 
 > # Flow Like Water!! &nbsp; [![GitHub followers](https://img.shields.io/github/followers/pratham-ops.svg?style=social&label=Followers)](https://github.com/pratham-ops?tab=followers)  <img align="right" src="https://profile-counter.glitch.me/pratham-ops/count.svg" />
-## Here's some fun facts about me: <img width="100" align="right" src="https://user-images.githubusercontent.com/83504276/146778999-93e901fd-80eb-4118-8a0d-39df011e32b4.png"><a href="https://git-scm.com/"><img height="100px" align="right" src="https://cdn.svgporn.com/logos/git-icon.svg"></a><a href="https://visualstudio.microsoft.com/"><img height="100px" align="right" src="https://cdn.svgporn.com/logos/visual-studio.svg"></a><a href="https://code.visualstudio.com/"><img height="100px" align="right" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></a>
+## Here's some fun facts about me: <img width="100" align="right" src="https://user-images.githubusercontent.com/83504276/146778999-93e901fd-80eb-4118-8a0d-39df011e32b4.png"><a href="https://git-scm.com/"><img height="100px" align="right" src="https://cdn.svgporn.com/logos/git-icon.svg"></a><a href="https://code.visualstudio.com/"><img height="100px" align="right" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></a>
 
 
 <!--   -  **I am a ***Coder***⚡🧙🏻‍♂️**
